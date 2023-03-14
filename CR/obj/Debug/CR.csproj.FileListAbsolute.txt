@@ -1,0 +1,54 @@
+C:\Users\kbstudentint\Desktop\CR\CR\bin\Debug\CR.exe.config
+C:\Users\kbstudentint\Desktop\CR\CR\bin\Debug\CR.exe
+C:\Users\kbstudentint\Desktop\CR\CR\bin\Debug\CR.pdb
+C:\Users\kbstudentint\Desktop\CR\CR\obj\Debug\CR.csprojResolveAssemblyReference.cache
+C:\Users\kbstudentint\Desktop\CR\CR\obj\Debug\CR.Form1.resources
+C:\Users\kbstudentint\Desktop\CR\CR\obj\Debug\CR.Form2.resources
+C:\Users\kbstudentint\Desktop\CR\CR\obj\Debug\CR.Properties.Resources.resources
+C:\Users\kbstudentint\Desktop\CR\CR\obj\Debug\CR.csproj.GenerateResource.Cache
+C:\Users\kbstudentint\Desktop\CR\CR\obj\Debug\CR.exe
+C:\Users\kbstudentint\Desktop\CR\CR\obj\Debug\CR.pdb
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\bin\Debug\CR.exe.config
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\obj\Debug\CR.exe
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\obj\Debug\CR.pdb
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\obj\Debug\CR.csprojResolveAssemblyReference.cache
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\obj\Debug\CR.Form1.resources
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\obj\Debug\CR.Form2.resources
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\obj\Debug\CR.Properties.Resources.resources
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\obj\Debug\CR.csproj.GenerateResource.Cache
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\bin\Debug\CR.exe
+J:\КИП\ТРПО\КР ТРПО 26.04.2019\Андреева\CR\bin\Debug\CR.pdb
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\bin\Debug\CR.exe.config
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\bin\Debug\CR.exe
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\bin\Debug\CR.pdb
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.AssemblyReference.cache
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\obj\Debug\CR.Form1.resources
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\obj\Debug\CR.Form2.resources
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\obj\Debug\CR.Properties.Resources.resources
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.GenerateResource.cache
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.CoreCompileInputs.cache
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\obj\Debug\CR.exe
+E:\ТРПО\ПР ТРПО 2022\ПР 27-28 Приложение для тестирования и отладки\CR\obj\Debug\CR.pdb
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\bin\Debug\CR.exe.config
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\bin\Debug\CR.exe
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\bin\Debug\CR.pdb
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.AssemblyReference.cache
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.Form1.resources
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.Form2.resources
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.Properties.Resources.resources
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.GenerateResource.cache
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.CoreCompileInputs.cache
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.exe
+D:\ПОДДЕРЖКА и ТЕСТИРОВАНИЕ\ПР ПиТ\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.pdb
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\bin\Debug\CR.exe.config
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\bin\Debug\CR.exe
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\bin\Debug\CR.pdb
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.AssemblyReference.cache
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.Form1.resources
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.Form2.resources
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.Properties.Resources.resources
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.GenerateResource.cache
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.exe
+D:\VisualStudio_Projects\C#\PR_Aksenova\ПР 2 Приложение для тестирования и отладки\ПР 2 Приложение для тестирования и отладки\CR\obj\Debug\CR.pdb
